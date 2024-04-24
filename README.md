@@ -3,7 +3,7 @@
 
 Please complete your proposal following the outline below.
 
-## Project title
+## Match Point Metrics: Exploring Tennis Statistics
 
 Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
 
