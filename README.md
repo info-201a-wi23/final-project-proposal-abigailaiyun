@@ -49,6 +49,7 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+> type limits
 
 Acknowledgements
 >  Our team would like to dedicate special thanks to our teaching assistant Kiyomi Komatsu. Without Kiyomi's support and guidance, this project would not be possible.
