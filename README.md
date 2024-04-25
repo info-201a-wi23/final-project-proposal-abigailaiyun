@@ -39,14 +39,9 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
-> Who collected the data?  
-> How was the data collected or generated?  
-> Why was the data collected?  
->How many observations (rows) are in your data?  
-> How many features (columns) are in the data?  
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
-> What are possible limitations or problems with this data?   (at least 200 words)
+>The dataset we’re investigating will be the “ATP Tennis Matches 2013-2023” CSV file available on Kaggle. This data collection contains information about every ATP tennis match (ATP 250, 500, Masters 1000, Grand Slam) that occurred between the years of 2013 and 2023. This includes various attributes such as tournament name, surface type, match date, player names, their rankings, match scores, etc. The data was collected simply by a fan (user DISSFYA on Kaggle) who was invested in collecting popular tennis match/player statistics, and who published such findings with a Creative Commons license so that it could be accessed in the public domain.There are 17 features/columns in this data, some of which were aforementioned above. There are 25,163 rows, which represent a single match at a tournament and the respective characteristics and aspects of the match. As a result of the way in which this data was obtained, one possible limitation to consider is that the individual who found and collected this data might have looked over certain matches/data points (which is unlikely given the thoroughness of the data). Additionally, they also would have had the power to insert personal biases towards a player, tournament, etc through including more relevant data pertaining to these items rather than objectively adding data pertaining to any potential data point to consider. This, however, A challenge we faced with this data is that, if a match never played out, ended due to injury, involved a retired player, etc, the row which was relevant to this match was simply wiped clean. Therefore, we had to scan through the data and remove any blank rows manually, which was quite laborious and difficult.
+
+[Link to ATP Tennis 2013 - 2023](https://www.kaggle.com/datasets/dissfya/atp-tennis-2013-2023)
 
 4. Implications
 
