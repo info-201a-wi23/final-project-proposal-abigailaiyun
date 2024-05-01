@@ -74,7 +74,7 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 
 > Designers, too, benefit from this analysis, as it highlights the need for user-friendly and visually appealing data representations. By leveraging the insights gained, they can create intuitive visualizations and interfaces that effectively communicate complex statistical information to diverse audiences, including fans, players, coaches, and analysts. 
 
-> This could enhance the overall experience and understanding of the sport for all stakeholders, while also potentially informing policymakers within the tennis industry. The findings related to players’ performance on different court surfaces could influence decisions regarding tournament scheduling, surface selections, or even rule modifications to enhance fairness and competitiveness. This analysis could spark broader discussions around data-driven decision-making in sports, athlete welfare, and the responsible use of analytics to maintain the integrity of the game.
+> This could refine the overall experience and understanding of the sport for all stakeholders, while also potentially informing policymakers within the tennis industry. The findings related to players’ performance on different court surfaces could influence decisions regarding tournament scheduling, surface selections, or even rule modifications to improve fairness and competitiveness. This analysis could prompt broader discussions around data-driven decision-making in sports, athlete welfare, and the responsible use of analytics to maintain the integrity of the game.
 
 
 5. Limitations & Challenges
