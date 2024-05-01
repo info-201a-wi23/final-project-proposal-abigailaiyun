@@ -41,29 +41,28 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 
 > Understanding the dynamics of ATP (Association of Tennis Professionals) tennis tournaments can provide valuable insights into player performance and tournament organization. Analyzing historical tournament data allows us to identify trends, predict match outcomes, and gain a deeper understanding of the factors influencing player success (Wastcoat). While not a global problem per se, it would be interesting to see if data programming and analysis can provide answers to longstanding questions within the tennis community, such as the impact of surface preferences on performance or the significance of high win rates when predicting match outcomes. By using this data, we can potentially uncover hidden patterns and new avenues for optimizing player performance.
 
----
 
 > Citation Style --> MLA (8th ed.)
 > Works Cited
 
-Farrell, Sarah. “Tennis players embracing technology and analytics in training.” Global Sport Matters, 16 October 2019, 
+> Farrell, Sarah. “Tennis players embracing technology and analytics in training.” Global Sport Matters, 16 October 2019, 
     https://globalsportmatters.com/science/2019/10/16/tennis-players-embracing-technology-analytics/. Accessed 30 April 2024.
 
-Tandon, Kamakshi. “The role of analytics in tennis is on a long, slow rise.” Tennis Channel, 17 January 2020, 
+> Tandon, Kamakshi. “The role of analytics in tennis is on a long, slow rise.” Tennis Channel, 17 January 2020, 
     https://www.tennis.com/news/articles/the-role-of-analytics-in-tennis-is-on-a-long-slow-rise. Accessed 30 April 2024.
 
-Wastcoat, Eliza. “5 Exciting Ways AI Can Be Used In Tennis.” IoT For All, 20 June 2023, https://www.iotforall.com/
-    5-exciting-ways-ai-can-be-used-in-tennis. Accessed 30 April 2024.
+> Wastcoat, Eliza. “5 Exciting Ways AI Can Be Used In Tennis.” IoT For All, 20 June 2023,
+    https://www.iotforall.com/5-exciting-ways-ai-can-be-used-in-tennis. Accessed 30 April 2024.
 
 ---
 
-Links to Related Sites:
+> Links to Related Sites:
 
-https://www.tennis.com/news/articles/the-role-of-analytics-in-tennis-is-on-a-long-slow-rise
+> https://www.tennis.com/news/articles/the-role-of-analytics-in-tennis-is-on-a-long-slow-rise
 
-https://globalsportmatters.com/science/2019/10/16/tennis-players-embracing-technology-analytics/
+> https://globalsportmatters.com/science/2019/10/16/tennis-players-embracing-technology-analytics/
 
-https://www.iotforall.com/5-exciting-ways-ai-can-be-used-in-tennis
+> https://www.iotforall.com/5-exciting-ways-ai-can-be-used-in-tennis
 
 
 
@@ -79,20 +78,20 @@ https://www.iotforall.com/5-exciting-ways-ai-can-be-used-in-tennis
 
 > The analysis of ATP data carries significant implications that could shape the future of the sport and influence the various stakeholders involved in its ecosystem. 
 
-For technologists, this study showcases the potential of data programming and analysis in uncovering valuable insights and patterns within the professional tour. With such findings, they can develop advanced analytics tools, predictive models, and data-driven decision support systems. These innovations could aid players, coaches, and tournament organizers in optimizing performance, strategy, and event planning (respectively), ultimately elevating the sport to new heights. 
+> For technologists, this study showcases the potential of data programming and analysis in uncovering valuable insights and patterns within the professional tour. With such findings, they can develop advanced analytics tools, predictive models, and data-driven decision support systems. These innovations could aid players, coaches, and tournament organizers in optimizing performance, strategy, and event planning (respectively), ultimately elevating the sport to new heights. 
 
-Designers, too, benefit from this analysis, as it highlights the need for user-friendly and visually appealing data representations. By leveraging the insights gained, they can create intuitive visualizations and interfaces that effectively communicate complex statistical information to diverse audiences, including fans, players, coaches, and analysts. 
+> Designers, too, benefit from this analysis, as it highlights the need for user-friendly and visually appealing data representations. By leveraging the insights gained, they can create intuitive visualizations and interfaces that effectively communicate complex statistical information to diverse audiences, including fans, players, coaches, and analysts. 
 
-This could enhance the overall experience and understanding of the sport for all stakeholders, while also potentially informing policymakers within the tennis industry. The findings related to players’ performance on different court surfaces could influence decisions regarding tournament scheduling, surface selections, or even rule modifications to enhance fairness and competitiveness. This analysis could spark broader discussions around data-driven decision-making in sports, athlete welfare, and the responsible use of analytics to maintain the integrity of the game.
+> This could enhance the overall experience and understanding of the sport for all stakeholders, while also potentially informing policymakers within the tennis industry. The findings related to players’ performance on different court surfaces could influence decisions regarding tournament scheduling, surface selections, or even rule modifications to enhance fairness and competitiveness. This analysis could spark broader discussions around data-driven decision-making in sports, athlete welfare, and the responsible use of analytics to maintain the integrity of the game.
 
 
 5. Limitations & Challenges
 
 > While the project idea would showcase the potential of analytics within the sport of tennis, several challenges and limitations must be addressed to ensure its broader application and impact. For one, the plan heavily relies on the availability and quality of historical tournament data. Ensuring consistent, accurate, and comprehensive data collection across various tournaments, surfaces, and player demographics could be a significant challenge. Incomplete or inaccurate data could severely limit the scope and reliability of results derived, undermining the entire point of analysis. 
 
-Furthermore, the interpretability and transparency of the statistical models and predictions made in the eventual analysis are crucial considerations. While these models can provide valuable insights, it’s crucial to ensure that the underlying assumptions, methodologies, and decision-making processes are transparent and easily interpretable. Failing to do so could result in widespread skepticism and distrust from stakeholders. Without clear explanations of how the analytics are derived and applied, there may be reluctance to adopt the insights and recommendations generated by the project. 
+> Furthermore, the interpretability and transparency of the statistical models and predictions made in the eventual analysis are crucial considerations. While these models can provide valuable insights, it’s crucial to ensure that the underlying assumptions, methodologies, and decision-making processes are transparent and easily interpretable. Failing to do so could result in widespread skepticism and distrust from stakeholders. Without clear explanations of how the analytics are derived and applied, there may be reluctance to adopt the insights and recommendations generated by the project. 
 
-Lastly, while we’re projecting to perform various types of statistical models and analyses based on historical ATP data, our current knowledge may not be sufficient to bring those results to fruition effectively. Our goals within this project are tentative and subject to change based on our understanding of data programming and the complexity of the tasks involved. As we progress, we may discover that our initial objectives exceed our current skill level or require more advanced techniques than anticipated. In such cases, we will adapt our goals to better align with our capabilities. Addressing these challenges proactively is crucial for ensuring the responsible and effective application of data analytics in the tennis industry.
+> Lastly, while we’re projecting to perform various types of statistical models and analyses based on historical ATP data, our current knowledge may not be sufficient to bring those results to fruition effectively. Our goals within this project are tentative and subject to change based on our understanding of data programming and the complexity of the tasks involved. As we progress, we may discover that our initial objectives exceed our current skill level or require more advanced techniques than anticipated. In such cases, we will adapt our goals to better align with our capabilities. Addressing these challenges proactively is crucial for ensuring the responsible and effective application of data analytics in the tennis industry.
 
 
 Acknowledgements
