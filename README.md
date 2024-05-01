@@ -19,7 +19,7 @@ outcomes, and deliver a comprehesnive summary of the factors influencing player 
 
 ## Keywords
 
-Association of Tennis Professionals, win rate, player ranking, 
+Association of Tennis Professionals (ATP), win rates, player rankings, court surfaces
 
 ## Proposal
 
