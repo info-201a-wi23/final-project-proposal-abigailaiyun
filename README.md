@@ -33,7 +33,7 @@ Association of Tennis Professionals, win rate, player ranking,
 Through our analysis we ask ourselves - is possible to predict the trajectory of a particular tennis player’s ranking based on historical data? This data will support statistics in match viewing popularity, player marketability, and tournament pools, all of which are integral to the tennis industry. Carefully applying these metrics to future events is likely to provide quality entertainment for the audience and increased revenue for the organization and or the individual player. Furthering the questions surrounding potential player success, we also wonder, how do the win rates of two tennis players, measured over a series of matches within a specific tournament, differ, and is there a significant variance in their performance? With this, we are able to evaluate relative strengths and abilities through win rates. Thus, allowing for direct comparisons between players, aiding in the assessment of their skill levels and competitiveness within the sport. Finally, and most importantly we want to know, Is there a statistically significant relationship between a tennis player’s performance and the type of surface they play on? Knowing this can contribute to answering our initial question surrounding player performance. If a player does particularly well on a specific surface we can use this as a parameter in considering a single match outcome between two opponents or an entire season for a single player. 
 
 
-2. Related Work  
+2a. Related Work  
 
 > The rise of analytics and data-driven decision making has made significant progress into the world of professional tennis. While the sport has traditionally defied standard statistical analysis due to its unique scoring system, varied playing styles, and different court surfaces, the arrival of advanced analytics has opened up new modes of understanding player performance and developing match strategies. Major technology firms such as SAP and IBM have partnered with tours, tournaments, and players to provide detailed data analysis. Top players like Novak Djokovic and Roger Federer have both found their way into incorporating these techniques into their preparations. However, reactions from players remain mixed, with some cautiously assessing the value of analytics (Tandon). 
 
@@ -42,8 +42,7 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 > Understanding the dynamics of ATP (Association of Tennis Professionals) tennis tournaments can provide valuable insights into player performance and tournament organization. Analyzing historical tournament data allows us to identify trends, predict match outcomes, and gain a deeper understanding of the factors influencing player success (Wastcoat). While not a global problem per se, it would be interesting to see if data programming and analysis can provide answers to longstanding questions within the tennis community, such as the impact of surface preferences on performance or the significance of high win rates when predicting match outcomes. By using this data, we can potentially uncover hidden patterns and new avenues for optimizing player performance.
 
 
-> Citation Style --> MLA (8th ed.)
-> Works Cited
+2b. Works Cited --> (MLA, 8th ed.)
 
 > Farrell, Sarah. “Tennis players embracing technology and analytics in training.” Global Sport Matters, 16 October 2019, 
     https://globalsportmatters.com/science/2019/10/16/tennis-players-embracing-technology-analytics/. Accessed 30 April 2024.
@@ -54,9 +53,8 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 > Wastcoat, Eliza. “5 Exciting Ways AI Can Be Used In Tennis.” IoT For All, 20 June 2023,
     https://www.iotforall.com/5-exciting-ways-ai-can-be-used-in-tennis. Accessed 30 April 2024.
 
----
 
-> Links to Related Sites:
+2c. Links to Featured Sites:
 
 > https://www.tennis.com/news/articles/the-role-of-analytics-in-tennis-is-on-a-long-slow-rise
 
@@ -65,14 +63,12 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 > https://www.iotforall.com/5-exciting-ways-ai-can-be-used-in-tennis
 
 
-
-
-
 3. The Dataset
 
 >The dataset we’re investigating will be the “ATP Tennis Matches 2013-2023” CSV file available on Kaggle. This data collection contains information about every ATP tennis match (ATP 250, 500, Masters 1000, Grand Slam) that occurred between the years of 2013 and 2023. This includes various attributes such as tournament name, surface type, match date, player names, their rankings, match scores, etc. The data was collected simply by a fan (user DISSFYA on Kaggle) who was invested in collecting popular tennis match/player statistics, and who published such findings with a Creative Commons license so that it could be accessed in the public domain.There are 17 features/columns in this data, some of which were aforementioned above. There are 25,163 rows, which represent a single match at a tournament and the respective characteristics and aspects of the match. As a result of the way in which this data was obtained, one possible limitation to consider is that the individual who found and collected this data might have looked over certain matches/data points (which is unlikely given the thoroughness of the data). Additionally, they also would have had the power to insert personal biases towards a player, tournament, etc through including more relevant data pertaining to these items rather than objectively adding data pertaining to any potential data point to consider. This, however, A challenge we faced with this data is that, if a match never played out, ended due to injury, involved a retired player, etc, the row which was relevant to this match was simply wiped clean. Therefore, we had to scan through the data and remove any blank rows manually, which was quite laborious and difficult.
 
 [Link to ATP Tennis 2013 - 2023](https://www.kaggle.com/datasets/dissfya/atp-tennis-2013-2023)
+
 
 4. Implications
 
