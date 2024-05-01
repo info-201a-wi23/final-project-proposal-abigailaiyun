@@ -1,11 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9bMXU1P_)
 # Final Project Proposal
 
-Please complete your proposal following the outline below.
-
 ## Match Point Metrics: Exploring Tennis Statistics
-
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
 
 ### Authors
 
@@ -37,9 +33,9 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 
 > The rise of analytics and data-driven decision making has made significant progress into the world of professional tennis. While the sport has traditionally defied standard statistical analysis due to its unique scoring system, varied playing styles, and different court surfaces, the arrival of advanced analytics has opened up new modes of understanding player performance and developing match strategies. Major technology firms such as SAP and IBM have partnered with tours, tournaments, and players to provide detailed data analysis. Top players like Novak Djokovic and Roger Federer have both found their way into incorporating these techniques into their preparations. However, reactions from players remain mixed, with some cautiously assessing the value of analytics (Tandon). 
 
-> This shift towards data-driven approaches isn't limited to professionals; organizations like the USTA have partnered with companies like Playisight to analyze youth players, identify talent, and optimize training programs using data on metrics like distance covered, intensity, and workload (Global Sport Matters). This allows coaches to mitigate injuries and enhance performance. 
+> This shift towards data-driven approaches isn't limited to professionals; organizations like the USTA (United States Tennis Association) have partnered with companies like Playisight to analyze youth players, identify talent, and optimize training programs using data on metrics like distance covered, intensity, and workload (Global Sport Matters). This allows coaches to mitigate injuries while simultaneously striving to enhance performance. 
 
-> Understanding the dynamics of ATP (Association of Tennis Professionals) tennis tournaments can provide valuable insights into player performance and tournament organization. Analyzing historical tournament data allows us to identify trends, predict match outcomes, and gain a deeper understanding of the factors influencing player success (Wastcoat). While not a global problem per se, it would be interesting to see if data programming and analysis can provide answers to longstanding questions within the tennis community, such as the impact of surface preferences on performance or the significance of high win rates when predicting match outcomes. By using this data, we can potentially uncover hidden patterns and new avenues for optimizing player performance.
+> Understanding the dynamics of ATP tennis tournaments can provide valuable insights into player performance and tournament organization. Analyzing historical tournament data allows us to identify trends, predict match outcomes, and gain a deeper understanding of the factors influencing player success (Wastcoat). While not a global problem per se, it would be interesting to see if data programming and analysis can provide answers to longstanding questions within the tennis community, such as the impact of surface preferences on performance or the significance of high win rates when predicting match outcomes. By using this data, we can potentially uncover hidden patterns and new avenues for optimizing player performance.
 
 
 2b. Works Cited --> (MLA, 8th ed.)
@@ -85,7 +81,7 @@ Through our analysis we ask ourselves - is possible to predict the trajectory of
 
 > While the project idea would showcase the potential of analytics within the sport of tennis, several challenges and limitations must be addressed to ensure its broader application and impact. For one, the plan heavily relies on the availability and quality of historical tournament data. Ensuring consistent, accurate, and comprehensive data collection across various tournaments, surfaces, and player demographics could be a significant challenge. Incomplete or inaccurate data could severely limit the scope and reliability of results derived, undermining the entire point of analysis. 
 
-> Furthermore, the interpretability and transparency of the statistical models and predictions made in the eventual analysis are crucial considerations. While these models can provide valuable insights, it’s crucial to ensure that the underlying assumptions, methodologies, and decision-making processes are transparent and easily interpretable. Failing to do so could result in widespread skepticism and distrust from stakeholders. Without clear explanations of how the analytics are derived and applied, there may be reluctance to adopt the insights and recommendations generated by the project. 
+> Furthermore, it's important to consider the interpretability of statistical models and predictions made in the analysis. While these models can provide valuable insights, it’s crucial to ensure that the underlying assumptions, methodologies, and decision-making processes are transparent and easily interpretable. Failing to do so could result in widespread skepticism and distrust from stakeholders. Without clear explanations of how the analytics are derived and applied, there may be reluctance to adopt the insights and recommendations generated by the project. 
 
 > Lastly, while we’re projecting to perform various types of statistical models and analyses based on historical ATP data, our current knowledge may not be sufficient to bring those results to fruition effectively. Our goals within this project are tentative and subject to change based on our understanding of data programming and the complexity of the tasks involved. As we progress, we may discover that our initial objectives exceed our current skill level or require more advanced techniques than anticipated. In such cases, we will adapt our goals to better align with our capabilities. Addressing these challenges proactively is crucial for ensuring the responsible and effective application of data analytics in the tennis industry.
 
